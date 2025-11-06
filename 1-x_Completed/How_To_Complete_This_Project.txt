@@ -11,6 +11,6 @@ Bonus points: Figure out how to prevent the Meatball from "falling" off the scre
 
 If you get stuck - Post a question on the forum:
 
-https://forum.microchip.com/s/sub-forums?&subForumId=a55V400000KrranIAB&forumId=a55V400000KrI6AIAV&subForumName=Collaborate
+https://forum.microchip.com/s/topic/a5CV4000000KV7hMAG/t404513
 
 Forum rules: Stay on topic, try to help each other where you can.
