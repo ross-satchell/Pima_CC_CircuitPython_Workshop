@@ -1,0 +1,16 @@
+Task:
+
+Students to use everything they have learned so far, and the different working parts:
+	- Stationary Meatball
+	- Meatball Move Button Press
+	- ICM20948 IMU
+
+Put it all together and make the Meatball move when you tilt the PyKit.
+
+Bonus points: Figure out how to prevent the Meatball from "falling" off the screen.
+
+If you get stuck - Post a question on the forum:
+
+https://forum.microchip.com/s/sub-forums?&subForumId=a55V400000KrranIAB&forumId=a55V400000KrI6AIAV&subForumName=Collaborate
+
+Forum rules: Stay on topic, try to help each other where you can.
