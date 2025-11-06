@@ -41,4 +41,3 @@ while True:
 
     last_button_state = current_button_state
 
-
